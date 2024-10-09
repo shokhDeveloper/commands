@@ -4,3 +4,8 @@ function sayHello(){
     return a
 }
 sayHello()
+
+function handleRenderUsers(){
+
+}
+handleRenderUsers()
